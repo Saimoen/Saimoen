@@ -4,12 +4,15 @@ I'm Grégory from New-Caledonia, living in Nouméa 🌴, enthusiast developper a
 
 Actually:
 
-🔭 I’m currently working on a new Project Course ...
-🌱 I’m currently learning amazing things ...
-👯 I help people to enjoy web development ...
-⚡ Fun fact : I'm Baller, Fitness and Otaku ...
-📫 How to reach me: Website or email
+🔭 I’m currently working on a new Project Course ... <br/>
+🌱 I’m currently learning amazing things ... <br/>
+👯 I help people to enjoy web development ...<br/>
+⚡ Fun fact : I'm Baller, Fitness and Otaku ... <br/>
+📫 How to reach me: Website or email <br/>
 
-![Saimoen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saimoen&show_icons=true&theme=radical)
+<a href="https://github.com/Saimoen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saimoen&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimoen&theme=buefy&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimoen&layout=compact)](https://github.com/Saimoen/github-readme-stats)
+<br/>
