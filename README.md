@@ -1,4 +1,4 @@
-Grégory Saïmoen
+<h2> Hey there! I'm Gregory.</h2>
 
 I'm Grégory from New-Caledonia, living in Nouméa 🌴, enthusiast developper and student, I do project on Development and Web App. I really enjoy learning languages and frameworks like JS and React.
 
