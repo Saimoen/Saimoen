@@ -15,7 +15,7 @@ Actually:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimoen&layout=compact)](https://github.com/Saimoen/github-readme-stats)
 
 <a href="https://github.com/Saimoen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saimoen&repo=github-readme-stats" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Saimoen&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimoen&layout=compact)](https://github.com/Saimoen/github-readme-stats))" />
 </a>
 <a href="https://github.com/Saimoen/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saimoen&repo=convoychat" />
