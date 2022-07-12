@@ -11,3 +11,5 @@ Actually:
 📫 How to reach me: Website or email
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saimoen)](https://github.com/Saimoen/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saimoen&show_icons=true&theme=radical)
