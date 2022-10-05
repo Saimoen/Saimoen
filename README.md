@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Grégory 🤙 </h2>
 
-I come from New-Caledonia, living in Nouméa 🌴, enthusiast developper and student, I do project on Development and Web App. I really enjoy learning languages and frameworks like JS and React.
+I come from New-Caledonia, living in Nouméa 🌴, enthusiast developper and student, I do project on Development and Web App. I really enjoy learning languages and frameworks like Spring and Angular.
 
 Actually:
 
