@@ -11,7 +11,7 @@ Actually:
 📫 How to reach me: Website or email <br/>
 
 <a href="https://github.com/Saimoen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saimoen&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saimoen&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimoen&theme=buefy&layout=compact" />
 </a>
 
